@@ -12,8 +12,6 @@ Main contact:
    📫 How to reach me: <a href='mailto:ivan.vakhaev.job@gmail.com'>ivan.vakhaev.job@gmail.com</a>
 </p>
 
-Contacts
- 
 
 🛠 Technical Stack
 Frontend: JS (ES6), React, Redux-Toolkit, Redux-Thunk, Redux-Saga, HTML5, CSS3, Sass, Bootstrap, Material UI;
