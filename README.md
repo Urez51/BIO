@@ -1,5 +1,5 @@
 # Hi there!👋 I'm Ivan, Fullstack-Developer!
-I like programming, cats, dogs, videogames and cinema.
+I like programming, rave music , videogames and cinema.
 
 PERN stack
 
